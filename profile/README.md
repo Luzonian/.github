@@ -1,8 +1,4 @@
-![The Luzonian — AY 2025-2026](assets/header.jpg)
-
-# The Luzonian
-
-> *Ask Questions. Demand Answers.*
+![The Luzonian — AY 2025-2026](../assets/Banner25-26.jpg)
 
 **The Luzonian** is the official collegiate student publication of the **Manuel S. Enverga University Foundation (MSEUF) – Lucena City**, Quezon, Philippines. As the voice of the MSEUF student body, The Luzonian is committed to delivering truthful, accurate, and impactful journalism that serves the campus community and beyond.
 
